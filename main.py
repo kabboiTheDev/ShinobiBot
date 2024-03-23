@@ -1,3 +1,7 @@
+# For 24/7 horus
+from keep_alive import keep_alive
+keep_alive()
+
 import discord
 from discord import app_commands
 import aiohttp
